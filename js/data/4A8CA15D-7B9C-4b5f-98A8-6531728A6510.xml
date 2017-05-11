@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.4:1", "", "Modelo de dominio", "EARoot/EA1/EA4/EA69.htm", "175.png", "10", "0", "", "Logical diagram0","{00346E32-C4C4-44ff-9A6D-A988E6333BDC}");
+tocTab[tocTab.length] = new Array("1.4:2", "", "Clase 1", "EARoot/EA1/EA4/EA71.htm", "5.png", "42", "0", "", "Class0","{41FF9F53-55E6-4cea-A66E-C9F04E8D9B51}");
+tocTab[tocTab.length] = new Array("1.4:3", "", "Subclase 1", "EARoot/EA1/EA4/EA73.htm", "5.png", "44", "0", "", "Class0","{C0D85AB2-5299-4ee9-A434-A809B7833BCB}");

@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("1.2:3", "", "Procesos de negocio", "EARoot/EA1/EA2/EA33.htm", "180.png", "2", "0", "", "Use Case diagram0","{98153DF5-FA0C-4d81-918B-1257691CA1D1}");
+tocTab[tocTab.length] = new Array("1.2:4", "", "«business process» Escenario de negocio 1", "EARoot/EA1/EA2/EA35.htm", "7.png", "19", "0", "", "UseCase0","{F324646C-4F00-4f71-95CA-11D29B213703}");
+tocTab[tocTab.length] = new Array("1.2:5", "", "«business process» Escenario de negocio 2", "EARoot/EA1/EA2/EA36.htm", "7.png", "20", "0", "", "UseCase0","{BF4817BB-4404-4d46-8783-74B5AA926719}");
+tocTab[tocTab.length] = new Array("1.2:1", "", "Actividades del escenario de negocio 1", "EARoot/EA1/EA2/EA29.htm", "181.png", "3", "19", "", "Activity diagram0","{BC8CB23E-18BF-403e-BC37-D58D6B1339D2}");
+tocTab[tocTab.length] = new Array("1.2:6", "", "condición si...", "EARoot/EA1/EA2/EA39.htm", "56.png", "24", "19", "", "Decision0","{EAF1F253-F66C-42ef-A08B-F6357FCAAFB3}");
+tocTab[tocTab.length] = new Array("1.2:7", "", "Inicio", "EARoot/EA1/EA2/EA40.htm", "68.png", "22", "19", "", "StateNode0","{A5594414-A155-4463-9609-99154BF08FE9}");
+tocTab[tocTab.length] = new Array("1.2:8", "", "Paso 1", "EARoot/EA1/EA2/EA41.htm", "21.png", "26", "19", "", "Activity0","{DDED56B5-8DAC-4c8c-9A29-9D104EC8F60E}");
+tocTab[tocTab.length] = new Array("1.2:9", "", "Paso 2", "EARoot/EA1/EA2/EA42.htm", "21.png", "25", "19", "", "Activity0","{8A6A431E-2CB1-448d-8EA3-AC60D6EFA62F}");
+tocTab[tocTab.length] = new Array("1.2:10", "", "Paso 3", "EARoot/EA1/EA2/EA43.htm", "21.png", "23", "19", "", "Activity0","{2542A2D5-0394-47e0-A0B3-FDE58148DE91}");
+tocTab[tocTab.length] = new Array("1.2:2", "", "Paso 3", "EARoot/EA1/EA2/EA31.htm", "181.png", "4", "23", "", "Activity diagram0","{411D7B02-E4AD-4eae-9B1C-0477581CDD3A}");
+tocTab[tocTab.length] = new Array("1.2.1", "", "Paquete de escenarios de negocio", "EARoot/EA1/EA2/EA38.htm", "4.png", "", "", "{56827F91-F13F-458c-96B5-CEB9250E6EFB}", "Package");
